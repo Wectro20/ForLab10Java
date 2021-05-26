@@ -9,8 +9,8 @@ on the resource and the operation of returning all objects.
   ```
 $ git clone https://github.com/Wectro20/javaLabs.git
 $ cd javaLabs
-$ git checkout lab9
+$ git checkout lab10
 $ mvn compile
 $ mvn install
-$ java -jar target/Lab9v1-1.0-SNAPSHOT.jar
+$ java -jar target/Lab10-1.0-SNAPSHOT.jar
   ```
