@@ -13,4 +13,5 @@ $ git checkout lab10
 $ mvn compile
 $ mvn install
 $ java -jar target/Lab10-1.0-SNAPSHOT.jar
+
   ```
